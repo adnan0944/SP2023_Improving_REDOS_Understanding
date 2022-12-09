@@ -5,7 +5,7 @@ Fix Strategies for Regex Infinite Ambiguity (Section 6)
      &nbsp; a) Fix strategies folder contains the analysis of prevalence of our fix strategies  
 
 Experiment 1: Effectiveness of Anti-patterns (Section 7)    
-     &nbsp; a) Uniq-regexes.json contains the dataset we used for experiment 1      
+     &nbsp; a) uniq-regexes-8.json contains the dataset we used for experiment 1      
      &nbsp; b) RegexAnalyzer folder contains the implementation of our anti-patterns (with the setup instructions inside)     
      &nbsp; c) Modified Weideman folder contains our modification of Weideman's detection tool  
 
