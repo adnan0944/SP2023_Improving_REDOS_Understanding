@@ -11,3 +11,5 @@
 5. Modified Weideman contains our implementation of Weideman's detection tool
 
 6. Van Der Merwe Replication contains a) our implementation of van der Merwe's fixing b) a jar file for the tool we created
+
+7. Uniqregexes.json contains the dataset we used for experiment 1
