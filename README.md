@@ -1,15 +1,17 @@
-# SP2023_Improving_Understanding
+# SP2023_Improving_REDOS_Understanding
+Description of the folder contents with paper sections:
 
-1. Experiment 2 sample protocol is at /Experiment 2/User Study Sample
+Fix Strategies for Regex Infinite Ambiguity (Section 6)
+------- Fix strategies folder contains the analysis of prevalence of our fix strategies
 
-2. Experiment 3 sample protocol is at /Experiment 3/User Study Sample
+Experiment 1: Effectiveness of Anti-patterns (Section 7)
+-------- Uniq-regexes.json contains the dataset we used for experiment 1
+-------- RegexAnalyzer folder contains the implementation of our anti-patterns (with the setup instructions inside)
+-------- Modified Weideman folder contains our modification of Weideman's detection tool
 
-3. Fix strategies contains the analysis of prevalence of our fix strategies
+Experiment 2: Effectiveness when Applied by Humans (Section)
+------- Experiment 2 folder contains our full protocol
 
-4. RegexAnalyzer contains the implementation of our anti-patterns (with the setup instructions inside)
-
-5. Modified Weideman contains our implementation of Weideman's detection tool
-
-6. Van Der Merwe Replication contains a) our implementation of van der Merwe's fixing b) a jar file for the tool we created
-
-7. Uniq-regexes.json contains the dataset we used for experiment 1
+Experiment 3: Usability when Complementing Existing Tools
+------- Experiment 3 folder contains our full protocol
+------- Van Der Merwe Replication folder contains a) our implementation of van der Merwe's fixing b) a jar file for the tool we created
