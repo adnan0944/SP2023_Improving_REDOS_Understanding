@@ -1,3 +1,7 @@
-How to run Van Der Merwe tool: java -jar Tool.jar "regex" i.e.
+Tool folder contains the source code.
+
+How to run Van Der Merwe tool:   
+
+java -jar Tool.jar "regex" i.e.
 
 java -jar Tool.jar "a*a*"
